@@ -2,3 +2,9 @@
 
 Аида Балиќ, бр. на индекс 235011
 
+Control Flow Graph
+Фотографија од control flow graph-ot
+
+(images/cfg.png)
+
+
