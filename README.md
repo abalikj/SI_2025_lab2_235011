@@ -5,6 +5,7 @@
 Control Flow Graph
 Фотографија од control flow graph-ot
 
-(images/cfg.png)
+![Control Flow Graph](images/cfg.png)
+
 
 
